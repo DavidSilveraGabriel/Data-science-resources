@@ -40,6 +40,6 @@ Buscador de Datos de UNICEF:[https://data.unicef.org/](https://data.unicef.org/)
 
 Dataset publico de Argentina:**[datos.gob.ar](http://datos.gob.ar)**
 
-kaggle: **[Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)**
+kaggle: [Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)
 
-Banco mundial de datos: **[World Bank Open Data | Data](https://data.worldbank.org/)**
+Banco mundial de datos: [World Bank Open Data | Data](https://data.worldbank.org/)
