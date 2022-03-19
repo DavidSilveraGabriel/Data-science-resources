@@ -3,7 +3,27 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [The Ultimate guide to sql window functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/)
 
+[Jupyter Notebook Doc](https://jupyter-notebook.readthedocs.io/en/stable/index.html)
 
+[LaTeX for markdown](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+
+[Como optimizar parametros python](https://blog.escueladedatosvivos.ai/como-hacer-optimizacion-parametros-python/)
+
+[Entendiendo la curva ROC](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+
+[SQL Masterclass with Danny](https://github.com/DataWithDanny/sql-masterclass)
+
+[Data Preprocessing Concepts with Python](https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
+
+[Data with Dany](https://www.datawithdanny.com/)
+
+[8week SQL challenge](https://8weeksqlchallenge.com/)
+
+[PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[Bias vaciance](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+
+[CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 # List of DS channels
 
