@@ -34,7 +34,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 # Public databases
 
-Buscador de Dataset de Google: [https://datasetsearch.research.google.com](https://datasetsearch.research.google.com/) 
+[Buscador de Dataset de Google:](https://datasetsearch.research.google.com/) 
 
 Plataforma de datos abiertos de Nación: [https://datos.gob.ar/dataset](https://datos.gob.ar/dataset) 
 
