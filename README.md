@@ -7,11 +7,11 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [LaTeX for markdown](https://en.wikibooks.org/wiki/LaTeX/Mathematics) : is a type of mathematical notation for markdown
 
-[Como optimizar parametros python](https://blog.escueladedatosvivos.ai/como-hacer-optimizacion-parametros-python/)
+[Como optimizar parametros python](https://blog.escueladedatosvivos.ai/como-hacer-optimizacion-parametros-python/) : optimiza parametros en python
 
-[Entendiendo la curva ROC](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+[Entendiendo la curva ROC](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5) : explicacion sobre la curva Roc
 
-[SQL Masterclass with Danny](https://github.com/DataWithDanny/sql-masterclass)
+[SQL Masterclass with Danny](https://github.com/DataWithDanny/sql-masterclass) : curso de SQL nivel maestro
 
 [Data Preprocessing Concepts with Python](https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
 
