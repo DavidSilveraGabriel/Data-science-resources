@@ -19,7 +19,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [8week SQL challenge](https://8weeksqlchallenge.com/) : a challenge of 8 weeks of SQL
 
-[PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+[PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/) : This website contains the full text of the Python Data Science Handbook by Jake VanderPlas; the content is available on GitHub in the form of Jupyter notebooks.
 
 [Bias vaciance](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
