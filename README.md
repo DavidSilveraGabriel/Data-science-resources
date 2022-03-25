@@ -1,7 +1,7 @@
 # Data-science-resources
 A list of Data Science resourses for everyone who is interested in this field
 
-[The Ultimate guide to sql window functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/)
+[The Ultimate guide to sql window functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/) : This ultimate guide is a complete overview of the types of SQL window functions, their syntax and real-life examples of how to use them in queries.
 
 [Jupyter Notebook Doc](https://jupyter-notebook.readthedocs.io/en/stable/index.html)
 
