@@ -13,11 +13,11 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [SQL Masterclass with Danny](https://github.com/DataWithDanny/sql-masterclass) : curso de SQL nivel maestro
 
-[Data Preprocessing Concepts with Python](https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
+[Data Preprocessing Concepts with Python](https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6) : study some pre processing methods
 
-[Data with Dany](https://www.datawithdanny.com/)
+[Data with Dany](https://www.datawithdanny.com/) : Web of Dany, a master of SQL 
 
-[8week SQL challenge](https://8weeksqlchallenge.com/)
+[8week SQL challenge](https://8weeksqlchallenge.com/) : a challenge of 8 weeks of SQL
 
 [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
