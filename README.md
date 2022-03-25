@@ -3,9 +3,9 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [The Ultimate guide to sql window functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/) : This ultimate guide is a complete overview of the types of SQL window functions, their syntax and real-life examples of how to use them in queries.
 
-[Jupyter Notebook Doc](https://jupyter-notebook.readthedocs.io/en/stable/index.html)
+[Jupyter Notebook Doc](https://jupyter-notebook.readthedocs.io/en/stable/index.html): Docs of Jupyter notebooks
 
-[LaTeX for markdown](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+[LaTeX for markdown](https://en.wikibooks.org/wiki/LaTeX/Mathematics) : is a type of mathematical notation for markdown
 
 [Como optimizar parametros python](https://blog.escueladedatosvivos.ai/como-hacer-optimizacion-parametros-python/)
 
