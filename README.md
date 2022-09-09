@@ -70,11 +70,11 @@ Datos Abiertos del Gobierno de EEUU:[https://www.data.gov/](https://www.data.gov
 
 [Conjunto de Datos Abiertos de FreeCodeCamp](https://github.com/freeCodeCamp/open-data)
 
-Conjunto de Datos Abiertos de Yelp:[https://www.yelp.com/dataset](https://www.yelp.com/dataset)
+[Conjunto de Datos Abiertos de Yelp](https://www.yelp.com/dataset)
 
-Buscador de Datos de UNICEF:[https://data.unicef.org/](https://data.unicef.org/)
+[Buscador de Datos de UNICEF](https://data.unicef.org/)
 
-Dataset publico de Argentina:**[datos.gob.ar](http://datos.gob.ar)**
+[Dataset publico de Argentina](http://datos.gob.ar)
 
 kaggle: [Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)
 
