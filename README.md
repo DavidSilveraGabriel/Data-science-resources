@@ -32,6 +32,8 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) : Understanding how different sources of error lead to bias and variance helps us improve the data fitting process resulting in more accurate models
 
+[How to Make Money From Web Scraping Without Selling Data](https://medium.com/swlh/how-to-make-money-from-web-scraping-without-selling-data-92c1f961b25) : You just need some lines of code to make extra money
+
 [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5) :  It is one of the most important evaluation metrics for checking any classification model’s performance
 
 [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db) : Who is going to win this war of predictions and on what cost? Let’s explore.
