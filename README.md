@@ -1,14 +1,6 @@
 # Data-science-resources
 A list of Data Science resourses for everyone who is interested in this field
 
-[Top 5 websites where obtain DataSets for your Data Science projects](https://medium.com/p/a7b68e689bd0) : A guide on where to get datasets for your data science projects
-
-[The Ultimate guide to sql window functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/) : This ultimate guide is a complete overview of the types of SQL window functions, their syntax and real-life examples of how to use them in queries.
-
-[6 Sklearn Mistakes That Silently Tell You Are Rookie](https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d) : Learn to avoid the 6 most serious mistakes related to ML theory in Sklearn beginners make.
-
-[How to Structure a Data Science Project for Readability and Transparency](https://towardsdatascience.com/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) : A guide for Structure a Data Science Project for Readability and Transparency
-
 [Jupyter Notebook Doc](https://jupyter-notebook.readthedocs.io/en/stable/index.html): Docs of Jupyter notebooks
 
 [LaTeX for markdown](https://en.wikibooks.org/wiki/LaTeX/Mathematics) : is a type of mathematical notation for markdown
@@ -39,6 +31,13 @@ A list of Data Science resourses for everyone who is interested in this field
 
 # Posts
 
+[Top 5 websites where obtain DataSets for your Data Science projects](https://medium.com/p/a7b68e689bd0) : A guide on where to get datasets for your data science projects
+
+[The Ultimate guide to sql window functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/) : This ultimate guide is a complete overview of the types of SQL window functions, their syntax and real-life examples of how to use them in queries.
+
+[6 Sklearn Mistakes That Silently Tell You Are Rookie](https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d) : Learn to avoid the 6 most serious mistakes related to ML theory in Sklearn beginners make.
+
+[How to Structure a Data Science Project for Readability and Transparency](https://towardsdatascience.com/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) : A guide for Structure a Data Science Project for Readability and Transparency
 
 # Public databases
 
