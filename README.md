@@ -60,9 +60,9 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Datos Abiertos del Banco Mundial](https://data.worldbank.org/)
 
-Datos Abiertos de la OMS:[https://www.who.int/data](https://www.who.int/data)
+[Datos Abiertos de la OMS](https://www.who.int/data)
 
-Registro de Datos Abiertos de AWS:[https://registry.opendata.aws/](https://registry.opendata.aws/)
+[Registro de Datos Abiertos de AWS](https://registry.opendata.aws/)
 
 Datos Abiertos del Gobierno de EEUU:[https://www.data.gov/](https://www.data.gov/)
 
