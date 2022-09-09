@@ -32,6 +32,8 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) : Understanding how different sources of error lead to bias and variance helps us improve the data fitting process resulting in more accurate models
 
+[A Python Cheat Sheet for Data Structures and Algorithms (Useful for Leetcode)](https://medium.com/@buildwithmalik/i-made-a-python-cheat-sheet-for-data-structures-and-algorithms-useful-for-leetcode-b304754fad9c) : Important data structures for Leetcode
+
 [Web Scraping in Python](https://medium.com/mlearning-ai/web-scraping-in-python-cf1e506572f) : what web scraping is, what libraries to use in Python, what CSS Selectors are, and a step by step example
 
 [How to Make Money From Web Scraping Without Selling Data](https://medium.com/swlh/how-to-make-money-from-web-scraping-without-selling-data-92c1f961b25) : You just need some lines of code to make extra money
