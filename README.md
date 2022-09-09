@@ -54,9 +54,9 @@ A list of Data Science resourses for everyone who is interested in this field
 
 Plataforma de datos abiertos de Nación: [https://datos.gob.ar/dataset](https://datos.gob.ar/dataset) 
 
-Plataforma de datos abiertos del Gobierno de la Ciudad: [https://data.buenosaires.gob.ar/dataset](https://data.buenosaires.gob.ar/dataset) 
+[Plataforma de datos abiertos del Gobierno de la Ciudad](https://data.buenosaires.gob.ar/dataset) 
 
-Buscador de dataset Kaggle:[https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) 
+[Buscador de dataset Kaggle](https://www.kaggle.com/datasets) 
 
 Datos Abiertos del Banco Mundial:[https://data.worldbank.org/](https://data.worldbank.org/)
 
