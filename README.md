@@ -7,7 +7,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Como optimizar parametros python](https://blog.escueladedatosvivos.ai/como-hacer-optimizacion-parametros-python/) : optimiza parametros en python
 
-[Entendiendo la curva ROC](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5) : explicacion sobre la curva Roc
+
 
 [SQL Masterclass with Danny](https://github.com/DataWithDanny/sql-masterclass) : curso de SQL nivel maestro
 
@@ -32,6 +32,8 @@ A list of Data Science resourses for everyone who is interested in this field
 # Posts
 
 [Top 5 websites where obtain DataSets for your Data Science projects](https://medium.com/p/a7b68e689bd0) : A guide on where to get datasets for your data science projects
+
+[Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5) :  It is one of the most important evaluation metrics for checking any classification model’s performance
 
 [The Ultimate guide to sql window functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/) : This ultimate guide is a complete overview of the types of SQL window functions, their syntax and real-life examples of how to use them in queries.
 
