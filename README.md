@@ -19,7 +19,6 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/) : This website contains the full text of the Python Data Science Handbook by Jake VanderPlas; the content is available on GitHub in the form of Jupyter notebooks.
 
-[CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 # DS YouTube channels
 
@@ -34,6 +33,8 @@ A list of Data Science resourses for everyone who is interested in this field
 [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) : Understanding how different sources of error lead to bias and variance helps us improve the data fitting process resulting in more accurate models
 
 [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5) :  It is one of the most important evaluation metrics for checking any classification model’s performance
+
+[CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db) : Who is going to win this war of predictions and on what cost? Let’s explore.
 
 [The Ultimate guide to sql window functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/) : This ultimate guide is a complete overview of the types of SQL window functions, their syntax and real-life examples of how to use them in queries.
 
