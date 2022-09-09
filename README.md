@@ -19,8 +19,6 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/) : This website contains the full text of the Python Data Science Handbook by Jake VanderPlas; the content is available on GitHub in the form of Jupyter notebooks.
 
-[Bias vaciance](http://scott.fortmann-roe.com/docs/BiasVariance.html)
-
 [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 # DS YouTube channels
@@ -32,6 +30,8 @@ A list of Data Science resourses for everyone who is interested in this field
 # Posts
 
 [Top 5 websites where obtain DataSets for your Data Science projects](https://medium.com/p/a7b68e689bd0) : A guide on where to get datasets for your data science projects
+
+[Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) : Understanding how different sources of error lead to bias and variance helps us improve the data fitting process resulting in more accurate models
 
 [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5) :  It is one of the most important evaluation metrics for checking any classification model’s performance
 
