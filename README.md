@@ -64,7 +64,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Registro de Datos Abiertos de AWS](https://registry.opendata.aws/)
 
-Datos Abiertos del Gobierno de EEUU:[https://www.data.gov/](https://www.data.gov/)
+[Datos Abiertos del Gobierno de EEUU](https://www.data.gov/)
 
 [Oficina del Censo de EEUU](https://www.census.gov/data.html)
 
@@ -76,6 +76,6 @@ Datos Abiertos del Gobierno de EEUU:[https://www.data.gov/](https://www.data.gov
 
 [Dataset publico de Argentina](http://datos.gob.ar)
 
-kaggle: [Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)
+[Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)
 
-Banco mundial de datos: [World Bank Open Data | Data](https://data.worldbank.org/)
+[World Bank Open Data](https://data.worldbank.org/)
