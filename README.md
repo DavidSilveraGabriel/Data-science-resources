@@ -31,11 +31,13 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
-# List of DS channels
+# DS YouTube channels
 
 [Frederik Müller](https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/videos)
 
 [Data Science Dojo](https://www.youtube.com/c/Datasciencedojo)
+
+# Posts
 
 
 # Public databases
