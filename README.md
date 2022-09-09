@@ -66,9 +66,9 @@ Registro de Datos Abiertos de AWS:[https://registry.opendata.aws/](https://regis
 
 Datos Abiertos del Gobierno de EEUU:[https://www.data.gov/](https://www.data.gov/)
 
-Oficina del Censo de EEUU:[https://www.census.gov/data.html](https://www.census.gov/data.html)
+[Oficina del Censo de EEUU](https://www.census.gov/data.html)
 
-Conjunto de Datos Abiertos de FreeCodeCamp:[https://github.com/freeCodeCamp/open-data](https://github.com/freeCodeCamp/open-data)
+[Conjunto de Datos Abiertos de FreeCodeCamp](https://github.com/freeCodeCamp/open-data)
 
 Conjunto de Datos Abiertos de Yelp:[https://www.yelp.com/dataset](https://www.yelp.com/dataset)
 
