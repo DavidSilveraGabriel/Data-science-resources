@@ -32,6 +32,8 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) : Understanding how different sources of error lead to bias and variance helps us improve the data fitting process resulting in more accurate models
 
+[Web Scraping in Python](https://medium.com/mlearning-ai/web-scraping-in-python-cf1e506572f) : what web scraping is, what libraries to use in Python, what CSS Selectors are, and a step by step example
+
 [How to Make Money From Web Scraping Without Selling Data](https://medium.com/swlh/how-to-make-money-from-web-scraping-without-selling-data-92c1f961b25) : You just need some lines of code to make extra money
 
 [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5) :  It is one of the most important evaluation metrics for checking any classification model’s performance
