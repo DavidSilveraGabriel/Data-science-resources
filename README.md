@@ -94,7 +94,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Cross-Sell Prediction Using Machine Learning in Python](https://www.analyticsvidhya.com/blog/2021/09/cross-sell-prediction-using-machine-learning-in-python/)
 
-[https://github.com/dishaaagarwal/Cross-Sell-Prediction-Machine-Learning/blob/main/Cross-Sell Prediction.ipynb](https://github.com/dishaaagarwal/Cross-Sell-Prediction-Machine-Learning/blob/main/Cross-Sell%20Prediction.ipynb)
+[Cross-Sell-Prediction-Machine-Learning](https://github.com/dishaaagarwal/Cross-Sell-Prediction-Machine-Learning/blob/main/Cross-Sell%20Prediction.ipynb)
 
 [Regresión Logística con Python paso a paso](https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/)
 
