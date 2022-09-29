@@ -108,4 +108,4 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [https://builtin.com/data-science/step-step-explanation-principal-component-analysis](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
 
-[https://machinelearningenespanol.com/2021/01/12/evaluacion-de-modelos-predictivos/](https://machinelearningenespanol.com/2021/01/12/evaluacion-de-modelos-predictivos/)
+[Evaluación de Modelos Predictivos: Ejemplo Python](https://machinelearningenespanol.com/2021/01/12/evaluacion-de-modelos-predictivos/)
