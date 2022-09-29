@@ -109,3 +109,5 @@ A list of Data Science resourses for everyone who is interested in this field
 [A Step-by-Step Explanation of Principal Component Analysis (PCA)](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
 
 [Evaluación de Modelos Predictivos: Ejemplo Python](https://machinelearningenespanol.com/2021/01/12/evaluacion-de-modelos-predictivos/)
+
+[¿Cómo hacer optimización de parámetros en Python?](https://blog.escueladedatosvivos.ai/como-hacer-optimizacion-parametros-python/)
