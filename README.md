@@ -102,7 +102,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/](https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/)
 
-[https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/](https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/)
+[Clasificar con K-Nearest-Neighbor ejemplo en Python](https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/)
 
 [https://online.datasciencedojo.com/course/How-to-Forecast-Sales-Using-Prophet-and-Python-in-15-Lines-of-Code](https://online.datasciencedojo.com/course/How-to-Forecast-Sales-Using-Prophet-and-Python-in-15-Lines-of-Code)
 
