@@ -96,7 +96,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [https://github.com/dishaaagarwal/Cross-Sell-Prediction-Machine-Learning/blob/main/Cross-Sell Prediction.ipynb](https://github.com/dishaaagarwal/Cross-Sell-Prediction-Machine-Learning/blob/main/Cross-Sell%20Prediction.ipynb)
 
-[https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/](https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/)
+[Regresión Logística con Python paso a paso](https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/)
 
 [https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/](https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/)
 
