@@ -79,3 +79,33 @@ A list of Data Science resourses for everyone who is interested in this field
 [Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)
 
 [World Bank Open Data](https://data.worldbank.org/)
+
+### bunch of links
+
+[https://www.cienciadedatos.net/machine-learning-python.html](https://www.cienciadedatos.net/machine-learning-python.html)
+
+[https://bookdown.org/content/2031/arboles-de-decision-parte-ii.html#ejemplo-regresion-poda](https://bookdown.org/content/2031/arboles-de-decision-parte-ii.html#ejemplo-regresion-poda)
+
+[https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python.html](https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python.html)
+
+[https://colab.research.google.com/drive/1ehETBOVtCqe7G6HOvm84hfXba8Gd9ILW?usp=sharing](https://colab.research.google.com/drive/1ehETBOVtCqe7G6HOvm84hfXba8Gd9ILW?usp=sharing)[https://www.youtube.com/watch?v=iX_on3VxZzk&t=505s](https://www.youtube.com/watch?v=iX_on3VxZzk&t=505s)
+
+[https://www.cienciadedatos.net/documentos/py07_arboles_decision_python.html](https://www.cienciadedatos.net/documentos/py07_arboles_decision_python.html)
+
+[https://www.analyticsvidhya.com/blog/2021/09/cross-sell-prediction-using-machine-learning-in-python/](https://www.analyticsvidhya.com/blog/2021/09/cross-sell-prediction-using-machine-learning-in-python/)
+
+[https://github.com/dishaaagarwal/Cross-Sell-Prediction-Machine-Learning/blob/main/Cross-Sell Prediction.ipynb](https://github.com/dishaaagarwal/Cross-Sell-Prediction-Machine-Learning/blob/main/Cross-Sell%20Prediction.ipynb)
+
+[https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/](https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/)
+
+[https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/](https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/)
+
+[https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/](https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/)
+
+[https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/](https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/)
+
+[https://online.datasciencedojo.com/course/How-to-Forecast-Sales-Using-Prophet-and-Python-in-15-Lines-of-Code](https://online.datasciencedojo.com/course/How-to-Forecast-Sales-Using-Prophet-and-Python-in-15-Lines-of-Code)
+
+[https://builtin.com/data-science/step-step-explanation-principal-component-analysis](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+
+[https://machinelearningenespanol.com/2021/01/12/evaluacion-de-modelos-predictivos/](https://machinelearningenespanol.com/2021/01/12/evaluacion-de-modelos-predictivos/)
