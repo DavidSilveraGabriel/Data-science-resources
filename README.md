@@ -100,7 +100,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Clasificar con K-Nearest-Neighbor ejemplo en Python](https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/)
 
-[https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/](https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/)
+[Regresión Logística con Python paso a paso](https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/)
 
 [Clasificar con K-Nearest-Neighbor ejemplo en Python](https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/)
 
