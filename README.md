@@ -22,7 +22,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 # DS YouTube channels
 
-[Frederik Müller](https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/videos)
+[Frederik Müller](https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/videos): its a Data Scientist giving interview preparation tips including solutions to LeetCode and StrataScratch problems.
 
 [Data Science Dojo](https://www.youtube.com/c/Datasciencedojo)
 
