@@ -86,7 +86,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Arboles de Decisión](https://bookdown.org/content/2031/arboles-de-decision-parte-ii.html#ejemplo-regresion-poda)
 
-[https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python.html](https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python.html)
+[Redes neuronales con Python](https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python.html)
 
 [Tu primera red neuronal en Python y Tensorflow](https://www.youtube.com/watch?v=iX_on3VxZzk&t=505s)
 
