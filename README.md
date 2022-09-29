@@ -84,7 +84,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Machine Learning con Python](https://www.cienciadedatos.net/machine-learning-python.html)
 
-[https://bookdown.org/content/2031/arboles-de-decision-parte-ii.html#ejemplo-regresion-poda](https://bookdown.org/content/2031/arboles-de-decision-parte-ii.html#ejemplo-regresion-poda)
+[Arboles de Decisión](https://bookdown.org/content/2031/arboles-de-decision-parte-ii.html#ejemplo-regresion-poda)
 
 [https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python.html](https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python.html)
 
