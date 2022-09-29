@@ -106,6 +106,6 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [https://online.datasciencedojo.com/course/How-to-Forecast-Sales-Using-Prophet-and-Python-in-15-Lines-of-Code](https://online.datasciencedojo.com/course/How-to-Forecast-Sales-Using-Prophet-and-Python-in-15-Lines-of-Code)
 
-[https://builtin.com/data-science/step-step-explanation-principal-component-analysis](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+[A Step-by-Step Explanation of Principal Component Analysis (PCA)](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
 
 [Evaluación de Modelos Predictivos: Ejemplo Python](https://machinelearningenespanol.com/2021/01/12/evaluacion-de-modelos-predictivos/)
