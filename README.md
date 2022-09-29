@@ -88,7 +88,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python.html](https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python.html)
 
-[https://colab.research.google.com/drive/1ehETBOVtCqe7G6HOvm84hfXba8Gd9ILW?usp=sharing](https://colab.research.google.com/drive/1ehETBOVtCqe7G6HOvm84hfXba8Gd9ILW?usp=sharing)[https://www.youtube.com/watch?v=iX_on3VxZzk&t=505s](https://www.youtube.com/watch?v=iX_on3VxZzk&t=505s)
+[Tu primera red neuronal en Python y Tensorflow](https://www.youtube.com/watch?v=iX_on3VxZzk&t=505s)
 
 [Árboles de decisión con Python: regresión y clasificación](https://www.cienciadedatos.net/documentos/py07_arboles_decision_python.html)
 
