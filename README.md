@@ -24,7 +24,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Frederik Müller](https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/videos): its a Data Scientist giving interview preparation tips including solutions to LeetCode and StrataScratch problems.
 
-[Data Science Dojo](https://www.youtube.com/c/Datasciencedojo)
+[Data Science Dojo](https://www.youtube.com/c/Datasciencedojo): is an e-learning company that is redefining the data science education landscape with simpler, digestible, and not to brag ---- engaging curriculum.
 
 # Posts
 
