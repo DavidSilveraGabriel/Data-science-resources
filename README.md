@@ -92,7 +92,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Árboles de decisión con Python: regresión y clasificación](https://www.cienciadedatos.net/documentos/py07_arboles_decision_python.html)
 
-[https://www.analyticsvidhya.com/blog/2021/09/cross-sell-prediction-using-machine-learning-in-python/](https://www.analyticsvidhya.com/blog/2021/09/cross-sell-prediction-using-machine-learning-in-python/)
+[Cross-Sell Prediction Using Machine Learning in Python](https://www.analyticsvidhya.com/blog/2021/09/cross-sell-prediction-using-machine-learning-in-python/)
 
 [https://github.com/dishaaagarwal/Cross-Sell-Prediction-Machine-Learning/blob/main/Cross-Sell Prediction.ipynb](https://github.com/dishaaagarwal/Cross-Sell-Prediction-Machine-Learning/blob/main/Cross-Sell%20Prediction.ipynb)
 
