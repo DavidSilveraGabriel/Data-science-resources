@@ -117,13 +117,13 @@ A list of Data Science resourses for everyone who is interested in this field
 [Cubos OLAP de información para la toma de decisiones](https://www.evaluandosoftware.com/cubos-olap-informacion-la-toma-decisiones/)
 
 # Probability and statistics
-Probability models and axioms
-Conditioning and independence
-Counting
-Discrete random variables
-Continuous random variables
-Further topics on random variables
-Bayesian inference
-Limit theorems and classical statistics
-Bernoulli and Poisson processes
-Markov chains
+* Probability models and axioms
+* Conditioning and independence
+* Counting
+* Discrete random variables
+* Continuous random variables
+* Further topics on random variables
+* Bayesian inference
+* Limit theorems and classical statistics
+* Bernoulli and Poisson processes
+* Markov chains
