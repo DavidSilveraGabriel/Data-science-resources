@@ -1,27 +1,27 @@
 # Data-science-resources
-A list of Data Science resourses for everyone who is interested in this field
+A list of Data Science resourses for everyone who is interested in this field.
 
-[RoadMap for be a Data Scientist](https://medium.com/@shahzebali_88956/roadmap-to-data-scientist-the-ultimate-path-to-become-a-data-scientist-86ecafec4446): a good summary of how become a data scientist
+[RoadMap for be a Data Scientist](https://medium.com/@shahzebali_88956/roadmap-to-data-scientist-the-ultimate-path-to-become-a-data-scientist-86ecafec4446): a good summary of how become a data scientist.
 
-[Jupyter Notebook Doc](https://jupyter-notebook.readthedocs.io/en/stable/index.html): Docs of Jupyter notebooks
+[Jupyter Notebook Doc](https://jupyter-notebook.readthedocs.io/en/stable/index.html): Docs of Jupyter notebooks.
 
-[LaTeX for markdown](https://en.wikibooks.org/wiki/LaTeX/Mathematics) : is a type of mathematical notation for markdown
+[LaTeX for markdown](https://en.wikibooks.org/wiki/LaTeX/Mathematics) : is a type of mathematical notation for markdown.
 
-[Como optimizar parametros python](https://blog.escueladedatosvivos.ai/como-hacer-optimizacion-parametros-python/) : optimiza parametros en python
+[Como optimizar parametros python](https://blog.escueladedatosvivos.ai/como-hacer-optimizacion-parametros-python/) : optimiza parametros en python.
 
 [Data viz](https://datavizproject.com/): a site where find all related to visualization of data. 
 
 [Data to viz](https://www.data-to-viz.com/): a site where find all related to visualization of data well structured. 
 
-[SQL Masterclass with Danny](https://github.com/DataWithDanny/sql-masterclass) : curso de SQL nivel maestro
+[SQL Masterclass with Danny](https://github.com/DataWithDanny/sql-masterclass) : curso de SQL nivel maestro.
 
-[Data Preprocessing Concepts with Python](https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6) : study some pre processing methods
+[Data Preprocessing Concepts with Python](https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6) : study some pre processing methods.
 
-[Data Science Process Alliance](https://www.datascience-pm.com/): a site where improve your Project Management Processes
+[Data Science Process Alliance](https://www.datascience-pm.com/): a site where improve your Project Management Processes.
 
-[Data with Dany](https://www.datawithdanny.com/) : Web of Dany, a master of SQL 
+[Data with Dany](https://www.datawithdanny.com/) : Web of Dany, a master of SQL.
 
-[8week SQL challenge](https://8weeksqlchallenge.com/) : a challenge of 8 weeks of SQL
+[8week SQL challenge](https://8weeksqlchallenge.com/) : a challenge of 8 weeks of SQL.
 
 [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/) : This website contains the full text of the Python Data Science Handbook by Jake VanderPlas; the content is available on GitHub in the form of Jupyter notebooks.
 
