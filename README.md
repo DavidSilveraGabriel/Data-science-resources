@@ -15,7 +15,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Data Preprocessing Concepts with Python](https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6) : study some pre processing methods
 
-[Data Science Process Alliance](https://www.datascience-pm.com/): 
+[Data Science Process Alliance](https://www.datascience-pm.com/): a site where improve your Project Management Processes
 
 [Data with Dany](https://www.datawithdanny.com/) : Web of Dany, a master of SQL 
 
