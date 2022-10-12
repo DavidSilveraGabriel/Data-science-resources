@@ -15,6 +15,8 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Data Preprocessing Concepts with Python](https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6) : study some pre processing methods
 
+[Data Science Process Alliance](https://www.datascience-pm.com/): 
+
 [Data with Dany](https://www.datawithdanny.com/) : Web of Dany, a master of SQL 
 
 [8week SQL challenge](https://8weeksqlchallenge.com/) : a challenge of 8 weeks of SQL
@@ -84,7 +86,6 @@ A list of Data Science resourses for everyone who is interested in this field
 
 # bunch of links
 
-[Data Science Process Alliance](https://www.datascience-pm.com/)
 
 [Machine Learning con Python](https://www.cienciadedatos.net/machine-learning-python.html)
 
