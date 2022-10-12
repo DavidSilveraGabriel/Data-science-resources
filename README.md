@@ -9,6 +9,8 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Data viz](https://datavizproject.com/): a site where find all related to visualization of data. 
 
+[Data to viz](https://www.data-to-viz.com/): a site where find all related to visualization of data well structured. 
+
 [SQL Masterclass with Danny](https://github.com/DataWithDanny/sql-masterclass) : curso de SQL nivel maestro
 
 [Data Preprocessing Concepts with Python](https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6) : study some pre processing methods
