@@ -127,3 +127,7 @@ A list of Data Science resourses for everyone who is interested in this field
 * Limit theorems and classical statistics
 * Bernoulli and Poisson processes
 * Markov chains
+
+# Maths
+
+[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning)
