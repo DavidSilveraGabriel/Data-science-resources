@@ -82,6 +82,8 @@ A list of Data Science resourses for everyone who is interested in this field
 
 ### bunch of links
 
+[Data Science Process Alliance](https://www.datascience-pm.com/)
+
 [Machine Learning con Python](https://www.cienciadedatos.net/machine-learning-python.html)
 
 [Arboles de Decisión](https://bookdown.org/content/2031/arboles-de-decision-parte-ii.html#ejemplo-regresion-poda)
