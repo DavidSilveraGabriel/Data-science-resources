@@ -1,6 +1,8 @@
 # Data-science-resources
 A list of Data Science resourses for everyone who is interested in this field
 
+[RoadMap for be a Data Scientist](https://medium.com/@shahzebali_88956/roadmap-to-data-scientist-the-ultimate-path-to-become-a-data-scientist-86ecafec4446)
+
 [Jupyter Notebook Doc](https://jupyter-notebook.readthedocs.io/en/stable/index.html): Docs of Jupyter notebooks
 
 [LaTeX for markdown](https://en.wikibooks.org/wiki/LaTeX/Mathematics) : is a type of mathematical notation for markdown
