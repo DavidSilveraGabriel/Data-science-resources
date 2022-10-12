@@ -111,3 +111,5 @@ A list of Data Science resourses for everyone who is interested in this field
 [Evaluación de Modelos Predictivos: Ejemplo Python](https://machinelearningenespanol.com/2021/01/12/evaluacion-de-modelos-predictivos/)
 
 [¿Cómo hacer optimización de parámetros en Python?](https://blog.escueladedatosvivos.ai/como-hacer-optimizacion-parametros-python/)
+
+[Cubos OLAP (On-Line Analytic Processing)](https://www.dataprix.com/es/blog-it/respinosamilla/cubos-olap-line-analytic-processing)
