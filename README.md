@@ -98,6 +98,8 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Cross-Sell-Prediction-Machine-Learning](https://github.com/dishaaagarwal/Cross-Sell-Prediction-Machine-Learning/blob/main/Cross-Sell%20Prediction.ipynb)
 
+[Reduccion de la dimencionalidad](https://aprendeia.com/reduccion-de-la-dimensionalidad-machine-learning/)
+
 [Regresión Logística con Python paso a paso](https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/)
 
 [Clasificar con K-Nearest-Neighbor ejemplo en Python](https://www.aprendemachinelearning.com/clasificar-con-k-nearest-neighbor-ejemplo-en-python/)
