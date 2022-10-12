@@ -7,7 +7,7 @@ A list of Data Science resourses for everyone who is interested in this field
 
 [Como optimizar parametros python](https://blog.escueladedatosvivos.ai/como-hacer-optimizacion-parametros-python/) : optimiza parametros en python
 
-[Data viz](https://datavizproject.com/)
+[Data viz](https://datavizproject.com/): a site where find all related to visualization of data. 
 
 [SQL Masterclass with Danny](https://github.com/DataWithDanny/sql-masterclass) : curso de SQL nivel maestro
 
