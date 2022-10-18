@@ -40,7 +40,7 @@ A list of Data Science resourses for everyone who is interested in this field.
 
 [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) : Understanding how different sources of error lead to bias and variance helps us improve the data fitting process resulting in more accurate models
 
-[3 Must-Have Projects For Your Data Science Portfolio](https://medium.com/jovianml/3-must-have-projects-for-your-data-science-portfolio-9cbd1264edb4):
+[3 Must-Have Projects For Your Data Science Portfolio](https://medium.com/jovianml/3-must-have-projects-for-your-data-science-portfolio-9cbd1264edb4): A comprehensive roadmap of how to build them!
 
 [A Python Cheat Sheet for Data Structures and Algorithms (Useful for Leetcode)](https://medium.com/@buildwithmalik/i-made-a-python-cheat-sheet-for-data-structures-and-algorithms-useful-for-leetcode-b304754fad9c) : Important data structures for Leetcode
 
