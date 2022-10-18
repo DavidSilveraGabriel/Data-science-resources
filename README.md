@@ -42,7 +42,7 @@ A list of Data Science resourses for everyone who is interested in this field.
 
 [3 Must-Have Projects For Your Data Science Portfolio](https://medium.com/jovianml/3-must-have-projects-for-your-data-science-portfolio-9cbd1264edb4): A comprehensive roadmap of how to build them!
 
-[4 Crucial Soft Skills For Data Science And Machine Learning Practitioners](https://medium.com/jovianml/4-important-soft-skills-for-data-science-and-machine-learning-practitioners-c704be0758c1):
+[4 Crucial Soft Skills For Data Science And Machine Learning Practitioners](https://medium.com/jovianml/4-important-soft-skills-for-data-science-and-machine-learning-practitioners-c704be0758c1): 4 Crucial Soft Skills For Data Science And Machine Learning Practitioners
 
 [A Python Cheat Sheet for Data Structures and Algorithms (Useful for Leetcode)](https://medium.com/@buildwithmalik/i-made-a-python-cheat-sheet-for-data-structures-and-algorithms-useful-for-leetcode-b304754fad9c) : Important data structures for Leetcode
 
