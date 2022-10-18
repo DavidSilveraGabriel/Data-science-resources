@@ -5,7 +5,7 @@ A list of Data Science resourses for everyone who is interested in this field.
 
 [Jupyter Notebook Doc](https://jupyter-notebook.readthedocs.io/en/stable/index.html): Docs of Jupyter notebooks.
 
-[Markdown guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb):
+[Markdown guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb): A google colab guide for markdown
 
 [LaTeX for markdown](https://en.wikibooks.org/wiki/LaTeX/Mathematics) : is a type of mathematical notation for markdown.
 
