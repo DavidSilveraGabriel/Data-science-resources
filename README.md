@@ -54,6 +54,8 @@ A list of Data Science resourses for everyone who is interested in this field.
 
 [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db) : Who is going to win this war of predictions and on what cost? Let’s explore.
 
+[3 Data Science Projects That Got Me 12 Interviews. And 1 That Got Me in Trouble.](https://medium.com/pipeline-a-data-engineering-resource/3-data-science-projects-that-got-me-12-interviews-and-1-that-got-me-in-trouble-f376682b4e21): 
+
 [Google Data Scientist Interview Questions (Step-by-Step Solutions!)](https://medium.com/@anna.wu9222/google-data-scientist-interview-questions-step-by-step-solutions-63b7403e2a5c): To land a data scientist role at Google, you will need to ace the interview process. In this article, we will go over some of the most common questions asked in a Google Data Scientist interview, along with step-by-step solutions to help you prepare.
 
 [The Ultimate guide to sql window functions](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/) : This ultimate guide is a complete overview of the types of SQL window functions, their syntax and real-life examples of how to use them in queries.
