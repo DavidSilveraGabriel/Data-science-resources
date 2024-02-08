@@ -1,0 +1,34 @@
+git init
+
+git config user.name "nombre de usuario"
+
+git config user.email "email"
+
+git remote add origin "https://github.com/DavidSilveraGabriel/Data-science-resources.git"
+
+git clone https://github.com/DavidSilveraGabriel/Data-science-resources
+
+git add <nombre_del_archivo>   # Agrega un archivo específico
+git add .                      # Agrega todos los archivos modificados
+
+#le agregamos un mensaje a los cambios
+git commit -m "Mensaje del commit"
+
+git status
+
+#git push: Envía tus cambios locales a un repositorio remoto.
+git push -u origin <nombre_de_la_rama> (por lo general es master)
+
+#git pull: Obtiene cambios desde un repositorio remoto y los fusiona con tu rama actual.
+git pull origin <nombre_de_la_rama> (por lo general es master)
+
+
+#git branch: Lista las ramas disponibles en el repositorio. y si le pones un nombre luego del comando te agrega otra rama
+git branch
+git branch -d (nombre de la rama)(para eliminar)
+
+# el checkout sirve para movernos entre ramas
+git checkout (nombre de la rama a la que queremos ir)
+
+
+git --help
