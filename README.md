@@ -33,7 +33,7 @@ A list of Data Science resourses for everyone who is interested in this field.
 [Frederik Müller](https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/videos): its a Data Scientist giving interview preparation tips including solutions to LeetCode and StrataScratch problems.
 
 [Data Science Dojo](https://www.youtube.com/c/Datasciencedojo): is an e-learning company that is redefining the data science education landscape with simpler, digestible, and not to brag ---- engaging curriculum.
-
+[Data Science for business](https://www.youtube.com/@DataScienceForBusiness) is a e-learning youtuber teacher focused on business in spanish, have greats and informative videos :D 
 # Posts
 
 [Top 5 websites where obtain DataSets for your Data Science projects](https://medium.com/p/a7b68e689bd0) : A guide on where to get datasets for your data science projects
